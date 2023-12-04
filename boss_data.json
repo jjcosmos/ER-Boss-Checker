@@ -1,0 +1,277 @@
+[
+  {
+      "region": "Limgrave",
+      "bosses": [
+          "Beastman of Farum Azula",
+          "Bell Bearing Hunter",
+          "Black Knife Assassin",
+          "Bloodhound Knight Darriwil",
+          "Crucible Knight",
+          "Deathbird",
+          "Demi-Human Chief",
+          "Erdtree Burial Watchdog (Stormfoot Catacombs)",
+          "Flying Dragon Agheel",
+          "Godrick the Grafted",
+          "Grafted Scion",
+          "Grave Warden Duelist",
+          "Guardian Golem",
+          "Mad Pumpkin Head",
+          "Margit, the Fell Omen",
+          "Night's Cavalry",
+          "Patches",
+          "Soldier of Godrick",
+          "Stonedigger Troll",
+          "Tibia Mariner",
+          "Tree Sentinel",
+          "Ulcerated Tree Spirit"
+      ]
+  },
+  {
+      "region": "Weeping Peninsula",
+      "bosses": [
+          "Ancient Hero of Zamor",
+          "Cemetery Shade",
+          "Deathbird",
+          "Erdtree Avatar",
+          "Erdtree Burial Watchdog (Impaler's Catacombs)",
+          "Leonine Misbegotten",
+          "Miranda the Blighted Bloom",
+          "Night's Cavalry",
+          "Runebear",
+          "Scaly Misbegotten"
+      ]
+  },
+  {
+      "region": "Liurnia of the Lakes",
+      "bosses": [
+          "Adan, Thief of Fire",
+          "Alabaster Lord",
+          "Alecto, Black Knife Ringleader",
+          "Bell Bearing Hunter",
+          "Black Knife Assassin",
+          "Bloodhound Knight",
+          "Bols, Carian Knight",
+          "Cemetery Shade",
+          "Cleanrot Knight",
+          "Crystalian",
+          "Crystalian Spear & Crystalian Staff (Duo)",
+          "Death Rite Bird",
+          "Deathbird",
+          "Erdtree Avatar (Liurnia Northeast)",
+          "Erdtree Avatar (Liurnia Southwest)",
+          "Erdtree Burial Watchdog",
+          "Glintstone Dragon Adula",
+          "Glintstone Dragon Smarag",
+          "Magma Wyrm Makar",
+          "Night's Cavalry (Liurnia North)",
+          "Night's Cavalry (Liurnia South)",
+          "Omenkiller",
+          "Onyx Lord",
+          "Red Wolf of Radagon",
+          "Rennala, Queen of the Full Moon",
+          "Royal Knight Loretta",
+          "Royal Revenant",
+          "Spirit-Caller Snail",
+          "Tibia Mariner"
+      ]
+  },
+  {
+      "region": "Caelid",
+      "bosses": [
+          "Cemetery Shade",
+          "Commander O'Neil",
+          "Crucible Knight & Misbegotten Warrior",
+          "Death Rite Bird",
+          "Decaying Ekzykes",
+          "Erdtree Avatar",
+          "Erdtree Burial Watchdog (Duo)",
+          "Fallingstar Beast",
+          "Frenzied Duelist",
+          "Mad Pumpkin Heads",
+          "Magma Wyrm",
+          "Night's Cavalry (Caelid)",
+          "Nox Swordstress & Nox Priest",
+          "Starscourge Radahn"
+      ]
+  },
+  {
+      "region": "Dragonbarrow",
+      "bosses": [
+          "Battlemage Hugues",
+          "Beastman of Farum Azula (Duo)",
+          "Bell Bearing Hunter",
+          "Black Blade Kindred",
+          "Cleanrot Knight (Duo)",
+          "Elder Dragon Greyoll",
+          "Flying Dragon Greyll",
+          "Godskin Apostle",
+          "Night's Cavalry (Dragonbarrow)",
+          "Putrid Avatar",
+          "Putrid Crystalian Trio",
+          "Putrid Tree Spirit"
+      ]
+  },
+  {
+      "region": "Altus Plateau",
+      "bosses": [
+          "Ancient Dragon Lansseax",
+          "Ancient Hero of Zamor",
+          "Black Knife Assassin (Sage's Cave)",
+          "Black Knife Assassin (Sainted Hero's Grave)",
+          "Crystalian Spear & Crystalian Ringblade",
+          "Demi-Human Queen Gilika",
+          "Elemer of the Briar",
+          "Erdtree Burial Watchdog",
+          "Fallingstar Beast",
+          "Godefroy The Grafted",
+          "Godskin Apostle",
+          "Necromancer Garris",
+          "Night's Cavalry",
+          "Omenkiller & Miranda the Blighted Bloom",
+          "Perfumer Tricia & Misbegotten Warrior",
+          "Sanguine Noble",
+          "Stonedigger Troll",
+          "Tibia Mariner",
+          "Tree Sentinel (Duo)",
+          "Wormface"
+      ]
+  },
+  {
+      "region": "Mt. Gelmir",
+      "bosses": [
+          "Abductor Virgins (Duo)",
+          "Demi-Human Queen Maggie",
+          "Demi-Human Queen Margot",
+          "Full-Grown Fallingstar Beast",
+          "God-Devouring Serpent / Rykard, Lord of Blasphemy",
+          "Godskin Noble",
+          "Kindred of Rot (Duo)",
+          "Magma Wyrm",
+          "Red Wolf of the Champion",
+          "Ulcerated Tree Spirit"
+      ]
+  },
+  {
+      "region": "Capital Outskirts",
+      "bosses": [
+          "Bell Bearing Hunter",
+          "Crucible Knight & Crucible Knight Ordovis",
+          "Deathbird",
+          "Draconic Tree Sentinel",
+          "Fell Twins",
+          "Grave Warden Duelist",
+          "Onyx Lord"
+      ]
+  },
+  {
+      "region": "Leyndell, Royal Capital",
+      "bosses": [
+          "Esgar, Priest of Blood",
+          "Godfrey, First Elden Lord",
+          "Mohg, the Omen",
+          "Morgott, the Omen King"
+      ]
+  },
+  {
+      "region": "Mountaintops of the Giants",
+      "bosses": [
+          "Ancient Hero of Zamor",
+          "Borealis the Freezing Fog",
+          "Commander Niall",
+          "Death Rite Bird",
+          "Erdtree Avatar",
+          "Fire Giant",
+          "Godskin Apostle and Godskin Noble (Spiritcaller Snail)",
+          "Tibia Mariner",
+          "Ulcerated Tree Spirit",
+          "Vyke, Knight of the Roundtable"
+      ]
+  },
+  {
+      "region": "Crumbling Farum Azula",
+      "bosses": [
+          "Beast Clergyman / Maliketh, the Black Blade",
+          "Dragonlord Placidusax",
+          "Godskin Duo"
+      ]
+  },
+  {
+      "region": "Forbidden Lands",
+      "bosses": [
+          "Black Blade Kindred",
+          "Night's Cavalry",
+          "Stray Mimic Tear"
+      ]
+  },
+  {
+      "region": "Consecrated Snowfield",
+      "bosses": [
+          "Astel, Stars of Darkness",
+          "Death Rite Bird",
+          "Great Wyrm Theodorix",
+          "Misbegotten Crusader",
+          "Night's Cavalry (Duo)",
+          "Putrid Avatar",
+          "Putrid Grave Warden Duelist"
+      ]
+  },
+  {
+      "region": "Miquella's Haligtree",
+      "bosses": [
+          "Loretta, Knight of the Haligtree",
+          "Malenia, Blade of Miquella"
+      ]
+  },
+  {
+      "region": "Siofra River",
+      "bosses": [
+          "Ancestor Spirit",
+          "Dragonkin Soldier",
+          "Mohg, Lord of Blood"
+      ]
+  },
+  {
+      "region": "Ainsel River",
+      "bosses": [
+          "Dragonkin Soldier of Nokstella"
+      ]
+  },
+  {
+      "region": "Nokron, Eternal City",
+      "bosses": [
+          "Mimic Tear",
+          "Regal Ancestor Spirit",
+          "Valiant Gargoyle & Valiant Gargoyle (Twinblade)"
+      ]
+  },
+  {
+      "region": "Deeproot Depths",
+      "bosses": [
+          "Crucible Knight Siluria",
+          "Fia's Champions",
+          "Lichdragon Fortissax"
+      ]
+  },
+  {
+      "region": "Lake of Rot",
+      "bosses": [
+          "Astel, Naturalborn of the Void",
+          "Dragonkin Soldier"
+      ]
+  },
+  {
+      "region": "Leyndell, Ashen Capital",
+      "bosses": [
+          "Esgar, Priest of Blood",
+          "Godfrey, First Elden Lord (Hoarah Loux)",
+          "Mohg, the Omen",
+          "Sir Gideon Ofnir, the All-Knowing"
+      ]
+  },
+  {
+      "region": "Elden Throne",
+      "bosses": [
+          "Radagon of the Golden Order / Elden Beast"
+      ]
+  }
+]
